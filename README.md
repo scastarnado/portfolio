@@ -1,6 +1,6 @@
-# 🚀 Sergi Castarnado - Personal Brand Landing Page
+# 🚀 Sergi Castarnado - Personal Brand Portfolio Page
 
-A modern, responsive personal brand landing page built with React, TypeScript, and Vite. Features a professional blue color scheme and showcases projects, skills, and contact information.
+A modern, responsive personal brand Portfolio page built with React, TypeScript, and Vite. Features a professional blue color scheme and showcases projects, skills, and contact information.
 
 ## 🎯 Sections
 
@@ -52,7 +52,7 @@ A modern, responsive personal brand landing page built with React, TypeScript, a
 
 ## 📝 License
 
-This project is created for Sergi Castarnado. Feel free to use as inspiration for your own landing page!
+This project is created for Sergi Castarnado. Feel free to use as inspiration for your own Portfolio page!
 
 ---
 

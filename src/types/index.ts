@@ -1,4 +1,4 @@
-// Type definitions for Sergi's Landing Page
+// Type definitions for Sergi's Portfolio Page
 
 export interface Project {
 	id: string;
